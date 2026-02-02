@@ -992,7 +992,7 @@ export default function Portfolio() {
         <main role="main" itemScope itemType="https://schema.org/Person" style={{ background: t.bg, color: t.text, minHeight: "100vh", overflowX: "hidden", position: "relative", transition: "background 0.4s, color 0.4s" }}>
             <meta itemProp="name" content="Diego Torres" />
             <meta itemProp="jobTitle" content="Senior Full Stack Engineer" />
-            <meta itemProp="url" content="https://diegotorres.dev" />
+            <meta itemProp="url" content="https://diego-torres-moran.vercel.app" />
             <meta itemProp="email" content="mju34170@gmail.com" />
             <link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
             <style>

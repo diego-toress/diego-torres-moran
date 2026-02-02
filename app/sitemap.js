@@ -1,5 +1,5 @@
 export default function sitemap() {
-    const baseUrl = "https://diegotorres.dev"; // Change to your actual domain
+    const baseUrl = "https://diego-torres-moran.vercel.app";
 
     return [
         {

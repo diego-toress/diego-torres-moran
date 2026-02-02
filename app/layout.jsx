@@ -31,14 +31,14 @@ export const metadata = {
     "Startup Engineer",
     "Portfolio",
   ],
-  authors: [{ name: "Diego Torres", url: "https://diegotorres.dev" }],
+  authors: [{ name: "Diego Torres", url: "https://diego-torres-moran.vercel.app" }],
   creator: "Diego Torres",
   publisher: "Diego Torres",
 
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://diegotorres.dev",
+    url: "https://diego-torres-moran.vercel.app",
     siteName: "Diego Torres — Portfolio",
     title: "Diego Torres — Senior Full Stack Engineer",
     description:
@@ -63,9 +63,9 @@ export const metadata = {
   },
 
   // ─── Technical SEO ────────────────────────────────
-  metadataBase: new URL("https://diegotorres.dev"),
+  metadataBase: new URL("https://diego-torres-moran.vercel.app"),
   alternates: {
-    canonical: "https://diegotorres.dev",
+    canonical: "https://diego-torres-moran.vercel.app",
   },
   robots: {
     index: true,
@@ -89,7 +89,7 @@ const jsonLd = {
   "@context": "https://schema.org",
   "@type": "Person",
   name: "Diego Torres",
-  url: "https://diegotorres.dev",
+  url: "https://diego-torres-moran.vercel.app",
   email: "mailto:mju34170@gmail.com",
   jobTitle: "Senior Full Stack Engineer",
   description:
